@@ -1,0 +1,4 @@
+https://github.com/oschwartz10612/poppler-windows/releases/download/v24.08.0-0/Release-24.08.0-0.zip
+
+add to system variables e.g C:\Program Files\poppler-24.08.0\Library\bin
+restart visual studio code
